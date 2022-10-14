@@ -1,0 +1,26 @@
+{
+    "passphrase": "abc@123",
+    "time": "2022-10-03T14:45:00Z",
+    "exchange": "BATS",
+    "ticker": "AAPL",
+    "bar":{
+    "time": "2022-10-03T14:45:00Z",
+    "open": 141.35,
+    "high": 141.35,
+    "low": 141.35,
+    "close": 141.35,
+    "volume": 1
+    },
+    "strategy": {
+    "position_size": 0,
+    "order_action": "sell",
+    "order_contracts": 10000,
+    "order_price": "141.35",
+    "order_id": "Close entry(s) order doge door",
+    "market_position": "flat",
+    "market_position_size": 0,
+    "prev_market_position": "flat",
+    "prev_market_position_size": 10000
+    
+    }
+    }
